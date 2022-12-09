@@ -1,6 +1,9 @@
 # kawaba
 https://go-kawaba.github.io/kawaba/index.html
 
+This is where the project is now, I have some old commits in the repo and it is a fork of my original project that the team (for some reason idfk) un-forked manually.
+https://github.com/GJ-u/kawaba
+
 ## Creating Translations
 ### Single word:
 ```
